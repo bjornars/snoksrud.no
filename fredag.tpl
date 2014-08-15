@@ -12,7 +12,7 @@
                 return;
             }
 
-            $('#rb').html('<audio>' +
+            $('#rb').html('<audio loop>' +
                 '<source src="rb.mp3">'+
                 '<source src="rb.ogg">'+
             //    'no sound for u' +
